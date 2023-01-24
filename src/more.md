@@ -21,7 +21,7 @@
 ## 支持项目
 
 当然，你也可以通过赞赏的方式来支持，促进项目更好的发展。
-[爱发电]()
+[爱发电](https://afdian.net/a/dogxi)
 > 赞赏采取**自愿**原则，收到的赞赏将用于提高开发者积极性和开发环境。
 
 <div style="display: flex; flex-wrap: wrap;">
