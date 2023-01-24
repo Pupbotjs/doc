@@ -6,11 +6,11 @@
 ## 安装 Pupbot CLI
 命令行/终端输入：
 ``` shell
-npm i -g pupbot@latest
+npm i -g pupbot
 ``` 
 下载慢，可使用国内源(备用)：
 ``` shell
-npm i -g pupbot@latest --registry https://registry.npmmirror.com
+npm i -g pupbot --registry https://registry.npmmirror.com
 ```
 
 ## 使用 CLI 生成配置
