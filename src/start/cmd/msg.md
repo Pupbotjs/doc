@@ -17,6 +17,7 @@
 | `/p off <name>`         | 通过插件名禁用指定插件                                                          |
 | `/p onall`              | 启用所有检索到的插件                                                            |
 | `/p offall`             | 禁用所有检索到的插件                                                            |
+| `/p reloadall`             | 重载所有检索到的插件                                                            |
 | `/p add <name>`         | 安装 npm 插件（`pupbot-plugin-` 前缀）                                         |
 | `/p update <?name>`     | 更新 npm 插件（`pupbot-plugin-` 前缀）                                         |
 | `/config`                    | 查看框架设置消息指令及其格式                                                    |
@@ -30,4 +31,5 @@
 | `/config me <operation>` | 设置是否接收自己消息的操作，可选：on(接收), off(不接收) |
 | `/update`                    | 更新框架依赖和 npm 插件                                                         |
 | `/about`                     | 查看框架介绍                                                                    |
+| `/reboot`                     | 重启机器人框架                                                                    |
 | `/exit`                      | 退出机器人进程                                                                  |
