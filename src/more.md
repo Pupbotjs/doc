@@ -26,9 +26,9 @@
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="display: flex; align-items: center; flex-direction: column;">
-    <img src="https://s2.loli.net/2022/12/29/TtNiqZnwy6ESGjO.jpg" alt="wxpay" width="160px" style="margin: 24px;"/>
+    <img src="http://gchat.qpic.cn/gchatpic_new/0/pupbot-0-6E2D8A40B3DA7F5C170FCED75F9A533E/0" alt="wxpay" width="160px" style="margin: 24px;"/>
   </div>
   <div style="display: flex; align-items: center; flex-direction: column;">
-    <img src="https://s2.loli.net/2022/12/29/5xk8paK4wGDnAhW.jpg" alt="alipay" width="160px"  style="margin:24px;"/>
+    <img src="http://gchat.qpic.cn/gchatpic_new/0/pupbot-0-EF934F3B555006A95EA8AF4501F73501/0" alt="alipay" width="160px"  style="margin:24px;"/>
   </div>
 </div>
