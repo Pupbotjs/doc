@@ -58,6 +58,7 @@ export default defineConfig({
               { text: 'Linux', link: '/start/linux' },
               { text: 'Windows', link: '/start/win' },
               { text: 'Android (Termux)', link: '/start/android' },
+              { text: '随身Wifi', link: 'https://blog.csdn.net/dog234/article/details/128762751'}
             ]
           },
           {
