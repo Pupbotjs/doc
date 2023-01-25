@@ -1,2 +1,2 @@
-export const nicePlugins = ['helper']
+export const nicePlugins = ['helper','kaifa','sleep']
 export const niceAuthors = []
