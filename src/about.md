@@ -2,7 +2,7 @@
 
 <!--[![npm-version](https://img.shields.io/npm/v/@pupbot/core?color=527dec&label=%40pupbot%2Fcore&style=flat-square)](https://npm.im/package/@pupbot/core)[![dm](https://shields.io/npm/dm/@pupbot/core?label=downloads&style=flat-square)](https://npm.im/package/@pupbot/core)
 -->
-[![dm](https://shields.io/npm/dm/pupbot?label=downloads&style=flat-square)](https://npm.im/package/pupbot)
+[![dm](https://shields.io/npm/dm/@pupbot/core?label=downloads&style=flat-square)](https://npm.im/package/@pupbot/core)
 
 <!--[![node-engine](https://img.shields.io/node/v/@pupbot/core?style=flat-square&logo=Node.js&logoColor=ffffff&color=527dec)](https://nodejs.org)-->
 [![qq-group](https://img.shields.io/badge/QQ%20%E7%BE%A4-532286460-527dec?logo=TencentQQ&style=flat-square&logoColor=ffffff)](https://qm.qq.com/cgi-bin/qm/qr?k=HK_MJ6jPmNb--oFtqGbYLnrSrYORiayX&jump_from=webapi&authKey=v/GUqKlGOF/EUGF5irCqYRA/+JFJ7pIRtqXNGPsNCos159ati25QOlqVTmGF8bjO)
