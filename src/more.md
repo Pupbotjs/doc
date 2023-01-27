@@ -23,12 +23,12 @@
 当然，你也可以通过赞赏的方式来支持，促进项目更好的发展。
 [爱发电](https://afdian.net/a/dogxi)
 > 赞赏采取**自愿**原则，收到的赞赏将用于提高开发者积极性和开发环境。
-<meta name="referrer" content="no-referrer" />
+
 <div style="display: flex; flex-wrap: wrap;">
   <div style="display: flex; align-items: center; flex-direction: column;">
     <img src="https://s2.loli.net/2022/12/29/TtNiqZnwy6ESGjO.jpg" alt="wxpay" width="160px" style="margin: 24px;"/>
   </div>
   <div style="display: flex; align-items: center; flex-direction: column;">
-    <img src="https://gchat.qpic.cn/download?appid=1407&fileid=Chh1X24xdloxWlBEajY5b2pNbG5HbjIwdncSFAz_WuOSWEAm5y17rSDUdNvhQ5aoGJzcESD_Cij01IatxOf8AjD-tegDOLbltLgHUIC9owFYgIl6&rkey=CAQSSKfEWBuMO5hvCJeRZJxE-v2k9oVjpGBqHwrGdGRWyXEWms2jIjMK8fIINGJ2tqoKYEv_HDtr-O5Ge7QiNH9OFkK4TyqC4qBqew&spec=0" alt="alipay" width="160px"  style="margin:24px;"/>
+    <img src="https://s2.loli.net/2022/12/29/5xk8paK4wGDnAhW.jpg" alt="alipay" width="160px"  style="margin:24px;"/>
   </div>
 </div>
