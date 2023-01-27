@@ -81,7 +81,7 @@ const pkgs = computed(() => {
   ps.sort((a, b) => a.score.final - b.score.final)
 
   ps.sort((e: { package: PackageInfo }) => {
-    return isHighQuality(e.package) ? -1 : 1
+    return isHighQuality(e.package) ? 1 : -1
   })
 
   ps.sort((e: { package: PackageInfo }) => {
