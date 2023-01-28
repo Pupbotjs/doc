@@ -85,7 +85,7 @@ const pkgs = computed(() => {
   })
 
   ps.sort((e: { package: PackageInfo }) => {
-    return isOfficial(e.package) ? 1 : -1
+    return isOfficial(e.package)||isHighQuality(e.package) ? 1 : -1
   })
 
   ps.sort((e: { package: PackageInfo }) => {
