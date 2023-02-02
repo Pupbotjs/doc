@@ -314,6 +314,10 @@ plugin.onMounted(() => {
 ```
 ## plugin.onAdminMatch() <Badge type="warning" text="方法" />
 与 `plugin.onMatch` 类似，不同之处在于 `onAdminMatch` 只会处理所有管理员消息。
+## plugin.onGroupMatch() <Badge type="warning" text="方法" />
+与 `plugin.onMatch` 类似，不同之处在于 `onGroupMatch` 只会处理所有群聊消息。
+## plugin.onPrivateMatch() <Badge type="warning" text="方法" />
+与 `plugin.onMatch` 类似，不同之处在于 `onPrivateMatch` 只会处理所有私聊消息。
 ## plugin.onCmd() <Badge type="warning" text="方法" />
 添加命令监听函数，使用 [minimist](https://github.com/minimistjs/minimist) 进行命令、参数和选项的解析.
 函数签名：`onCmd(cmds, handler)`
