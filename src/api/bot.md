@@ -4,7 +4,7 @@
 >`plugin.on('message',(bot)=>{})`引入的bot即Clinet类实例。
 ***
 >看不懂的可以看带注解的:<br>
-参考 [`oicq` 带注解文档](https://ltxhhz.github.io/oicq-wiki/api/%E5%BA%94%E7%94%A8%E7%B1%BBapi.html)的 [`应用类api`](https://ltxhhz.github.io/oicq-wiki/api/%E5%BA%94%E7%94%A8%E7%B1%BBapi.html)
+参考 [`oicq` 带注解文档](https://ltxhhz.github.io/oicq-wiki/api/%E5%BA%94%E7%94%A8%E7%B1%BBapi.html)的 [`应用类api`](https://ltxhhz.github.io/oicq-wiki/api/%E5%BA%94%E7%94%A8%E7%B1%BBapi.html) /该版本为旧版，cqcode已弃用，请用segment
 ```js
 const plugin = new PupPlugin('demo', '1.0.0')
 plugin.onMounted((bot, admins) => {//引入参数bot(即Client)
