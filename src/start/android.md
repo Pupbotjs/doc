@@ -51,4 +51,3 @@ pup deploy
 
 ## 报错
 - [常见问题](/start/problem) 
-- [Q群礼貌询问](https://qm.qq.com/cgi-bin/qm/qr?k=HK_MJ6jPmNb--oFtqGbYLnrSrYORiayX&jump_from=webapi&authKey=v/GUqKlGOF/EUGF5irCqYRA/+JFJ7pIRtqXNGPsNCos159ati25QOlqVTmGF8bjO)
