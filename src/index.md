@@ -1,3 +1,4 @@
+<meta name="baidu-site-verification" content="codeva-psxC7eyHAL" />
 ---
 layout: home
 titleTemplate: QQ 机器人框架
