@@ -19,6 +19,7 @@
 | `/p offall`             | 禁用所有检索到的插件                                                            |
 | `/p reloadall`             | 重载所有检索到的插件                                                            |
 | `/p add <name>`         | 安装 npm 插件（`pupbot-plugin-` 前缀）                                         |
+| `/p rm <name>`         | 删除插件                                         |
 | `/p update <?name>`     | 更新 npm 插件（`pupbot-plugin-` 前缀）                                         |
 | `/config`                    | 查看框架设置消息指令及其格式                                                    |
 | `/config detail`             | 查看框架详细设置                                                                |
