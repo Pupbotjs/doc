@@ -38,6 +38,16 @@ export default defineConfig({
         ]
       },
       {
+        text: '工具',
+        items: [
+          {
+            items: [
+              { text: '图形化开发', link: 'https://widget.coco-central.cn/' }
+            ]
+          }  
+        ]
+      },
+      {
         text: '更多', 
         link: '/more'
       }
