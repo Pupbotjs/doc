@@ -95,7 +95,7 @@ export default defineConfig({
           { text: '插件说明', link: '/plugin/note' },
           { text: '安装插件', link: '/plugin/install' },
           { text: '插件仓库', link: '/plugin/warehouse' },
-          { text: '官方插件文档', link: '/plugin/list' },
+          // { text: '官方插件文档', link: '/plugin/list' },
         ]
       },
       {
