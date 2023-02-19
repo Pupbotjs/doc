@@ -17,8 +17,8 @@ if(event.raw_message.startsWith('点歌')){
 ```
 ## *发送图文*
 ```js
-const{segment}= require('oicq')
-var img =segment.image(https://)
+const { PupPlugin,segment } = require('@pupbot/core')
+var img =segment.image('https://')
 var msg ='xxx'
 event.reply([img,msg])
 ```
