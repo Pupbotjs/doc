@@ -42,7 +42,7 @@ export default defineConfig({
         items: [
           {
             items: [
-              { text: '图形化开发', link: 'https://widget.coco-central.cn/' }
+              { text: '图形化开发', link: 'https://pup.coco-central.cn/' }
             ]
           }  
         ]
